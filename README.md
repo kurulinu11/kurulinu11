@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kurulinu11
-- 👀 I’m interested in how to automate my work
+- 👀 I’m interested in automation of any kind
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
